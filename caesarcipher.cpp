@@ -45,5 +45,5 @@ int main() {
     // Display the encrypted text
     cout << "Encrypted Text: " << caesarCipher(text, s) << endl;
 
-    return 0; // Return 0 to indicate successful program termination
+    return 0; 
 }
